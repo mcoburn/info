@@ -4,21 +4,19 @@ account-info
 The Fresh Diet account information
 
 FILE
-finance.asc 		Michael,Matt,Andy
+finance.asc 		Michael
 
-accounts.asc		Fabian,Orlando,Andy,Michael
+accounts.asc		Michael
 
-masteraccounts.asc	Fabian,Michael
+masteraccounts.asc	Michael
 
-miscaccounts.asc	Fabian,Orlando,Andy,Michael
-
-marketing.asc		Rossie,Michael
+social.asc		Michael
 
 opts			Options File  
-				group sysadmins = System Administrators (AB,FR,MC,OS) 
-				group figuys = (AB,MH,MC)
-				group master = (FR,MC)
-				group market = (RS,MC)
+				group sysadmins = System Administrators (MC) 
+				group figuys = (MC)
+				group master = (MC)
+				group market = (MC)
 keys			Directory of Public Keys
 
 README.md		This File
