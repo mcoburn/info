@@ -1,7 +1,7 @@
 account-info
 ============
 
-The Fresh Diet account information
+Coburn Inc. account information
 
 FILE
 finance.asc 		Michael
